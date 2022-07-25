@@ -10,5 +10,12 @@ public void practiceGit()
 	System.out.println("hello");
 	
 }
+	@Test
+public void practiceGit1()
+{
+	System.out.println("hi");
+	System.out.println("hello");
+	
+}
 
 }
